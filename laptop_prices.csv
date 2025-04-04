@@ -1,0 +1,9 @@
+Brand,Processor,RAM,SSD,HDD,ScreenSize,Touchscreen,OS,Price
+Dell,Intel i5,8,256,0,15.6,No,Windows,55000
+HP,Intel i7,16,512,1000,14.0,Yes,Windows,85000
+Apple,M1,8,256,0,13.3,No,macOS,120000
+Asus,Ryzen 5,8,512,0,15.6,No,Windows,60000
+Lenovo,Intel i3,4,128,500,15.6,No,DOS,35000
+Dell,Ryzen 7,16,1024,0,17.0,Yes,Windows,95000
+HP,Intel i5,8,256,1000,14.0,No,Linux,58000
+Apple,M2,16,512,0,13.6,Yes,macOS,130000
